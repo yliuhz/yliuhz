@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm now a research assistant at HKUST CSE department. I'm going to be a CS PhD student in HKUST on September, 2023. 
+- 🤔 I’m currently working on graph machine learning and large language models. 
+- 📫 How to reach me: Please refer to my personal site: [yliuhz.github.io](yliuhz.github.io) and my blogs [yliuhz.github.io/blogs](yliuhz.github.io/blogs). 
