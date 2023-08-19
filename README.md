@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm now a research assistant at HKUST CSE department. I'm going to be a CS PhD student in HKUST on September, 2023. 
+- 🔭 I'm now a CS PhD student at HKUST CSE department, supervised by [Prof. Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou). 
 - 🤔 I’m currently working on graph machine learning and large language models. 
 - 📫 How to reach me: Please refer to [my personal site](http://yliuhz.github.io) and [my blogs](http://yliuhz.github.io/blogs). 
